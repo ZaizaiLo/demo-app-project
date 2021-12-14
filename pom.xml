@@ -19,6 +19,7 @@
 
     <modules>
         <module>rocketmq-demo</module>
+        <module>elastic-search-demo</module>
     </modules>
     <packaging>pom</packaging>
 
