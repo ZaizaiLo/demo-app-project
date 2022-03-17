@@ -11,6 +11,7 @@
         <module>common</module>
         <module>rocketmq-demo</module>
         <module>elastic-search-demo</module>
+        <module>sharding-sphere-demo</module>
     </modules>
     <packaging>pom</packaging>
 

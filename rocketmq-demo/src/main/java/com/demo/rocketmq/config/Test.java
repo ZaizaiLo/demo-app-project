@@ -1,4 +1,4 @@
-package com.rocketmqdemo.config;
+package com.demo.rocketmq.config;
 
 /**
  * @description

@@ -1,16 +1,13 @@
-package com.rocketmqdemo;
+package com.demo.shardingsphere;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-/**
- * @author ZaiZai
- */
 @SpringBootApplication
-public class RocketmqDemoApplication {
+public class ShardingSphereApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RocketmqDemoApplication.class, args);
+        SpringApplication.run(ShardingSphereApplication.class, args);
     }
 
 }
