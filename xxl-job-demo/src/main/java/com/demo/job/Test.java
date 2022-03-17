@@ -1,7 +1,5 @@
 package com.demo.job;
 
-import com.demo.common.A;
-
 /**
  * @description
  * @author luojiyuan
